@@ -2,6 +2,9 @@
 
 ## Source Repo: <https://github.com/tscanlin/next-blog>
 
+## <https://nextjs.org/docs/advanced-features/static-html-export>
+
+
 Markdown based blog using [next](https://github.com/zeit/next.js/). It also uses [processmd](https://github.com/tscanlin/processmd) to compile the markdown files and watch for changes (disclaimer: another project of mine).
 
 [![Mentioned in Awesome Next JS](https://awesome.re/mentioned-badge.svg)](https://github.com/unicodeveloper/awesome-nextjs)
